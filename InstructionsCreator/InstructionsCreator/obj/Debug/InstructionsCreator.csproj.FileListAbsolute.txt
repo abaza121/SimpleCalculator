@@ -1,0 +1,7 @@
+C:\Users\Mahmoud Abaza\source\repos\InstructionsCreator\InstructionsCreator\obj\Debug\InstructionsCreator.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Abaza\source\repos\InstructionsCreator\InstructionsCreator\obj\Debug\InstructionsCreator.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Abaza\source\repos\InstructionsCreator\InstructionsCreator\bin\Debug\InstructionsCreator.exe.config
+C:\Users\Mahmoud Abaza\source\repos\InstructionsCreator\InstructionsCreator\bin\Debug\InstructionsCreator.exe
+C:\Users\Mahmoud Abaza\source\repos\InstructionsCreator\InstructionsCreator\bin\Debug\InstructionsCreator.pdb
+C:\Users\Mahmoud Abaza\source\repos\InstructionsCreator\InstructionsCreator\obj\Debug\InstructionsCreator.exe
+C:\Users\Mahmoud Abaza\source\repos\InstructionsCreator\InstructionsCreator\obj\Debug\InstructionsCreator.pdb
